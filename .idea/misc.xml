@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/drawable/back.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/drawable/shapebar.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/MainActivity.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_bayam.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_brokoli.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_kale.xml" value="0.18931159420289856" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_kembangkol.xml" value="0.17" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_kubis.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_main.xml" value="0.9717741935483871" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_pare.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_sawi.xml" value="0.2046875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/activity_wortel.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/layout/brokoli.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthycare/app/src/main/res/menu/menu_navigation.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
